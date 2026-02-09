@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Dashrat Rajpurohit, currently studying at CodingGita X Swaminarayan University and focused on actually building real development skills.<br><br>📚 What I’m Learning<br><br>Core programming fundamentals<br><br>Web development: HTML, CSS, JavaScript,React-js,Node-js<br><br>Beginning my path toward full-stack development<br><br>🎯 Goal<br><br>Become a full-stack developer by 2029 with solid, working projects and real problem-solving ability.
+I’m Dashrat Rajpurohit, currently studying at CodingGita X Swaminarayan University and focused on actually building real development skills.<br><br>📚 What I’m Learning<br><br>Core programming fundamentals<br><br>Web development: HTML, CSS, JavaScript, React-js, Node-js<br><br>Beginning my path toward full-stack development<br><br>🎯 Goal<br><br>Become a full-stack developer by 2029 with solid, working projects and real problem-solving ability.
 
 
 ## 🌐 Socials:
