@@ -106,6 +106,27 @@
 - 🕹️ Tiny game prototypes to keep vanilla JS muscles fresh.
 - 🌍 Always open to collabs: drop an issue or a DM.
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-29612d07ba1f.gif" width="220" alt="radar scan" />
+</p>
+
+## Momentum board
+- 🚀 **Launch-ready:** Polishing a clean deploy script + PR previews.
+- 🎬 **In progress:** Motion experiments (staggered cards, magnetic buttons).
+- 🧭 **Up next:** API observability starter kit for side projects.
+- 🧊 **Cool-down:** Reading “Designing Data-Intensive Applications”.
+
+## Micro dashboards
+<p align="center">
+  <img src="https://progress-bar.dev/82/?title=frontend%20polish&width=180&color=0ea5e9" />
+  <img src="https://progress-bar.dev/71/?title=backend%20ops&width=180&color=22c55e" />
+  <img src="https://progress-bar.dev/64/?title=testing%20rig&width=180&color=f59e0b" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/215283981-13c3f2f7-75e8-4e7c-8f4b-bf9c0c8d9f9c.gif" width="320" alt="grid scan" />
+</p>
+
 ## What I'm up to
 - 🧪 Building small projects to stress‑test ideas quickly.
 - ⚡ Practicing performance profiling on React + Node stacks.
