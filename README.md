@@ -26,16 +26,39 @@
   <a href="https://docs.google.com/document/d/1BLxpwyhQRmfOrfPq7UMc_XUtYadRSPRP/edit?usp=sharing&ouid=100913256563492753565&rtpof=true&sd=true" target="_blank">
     <img src="https://img.shields.io/badge/Resume-2563eb?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
   </a>
-</p><p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320" alt="coding" />
 </p>
 
-## About me
+<table>
+  <tr>
+    <td width="62%" valign="top">
+
+### About me
 - 🌱 Sharpening full-stack chops with **React**, **TypeScript**, and **Node.js**.
-- 🧭 Love turning requirements into clean, reliable user journeys.
-- 🛠️ Enjoy automating deployments and keeping DX smooth (linting, tests, CI).
-- 📚 Forever learning — currently diving deeper into **performance tuning** and **testing**.
-- 🤝 I like pairing on problems; feel free to ping me with interesting issues.
+- 🧭 Turning vague requirements into **smooth, shipped user flows**.
+- 🛠️ Obsessed with **DX**: linting, tests, previews, one-click deploys.
+- 📚 Deep-diving **performance budgets** and **testing pyramids** right now.
+- 🤝 Ping me for pair-programming; I ship faster with a teammate.
+
+### Now building
+- ⚡ Micro SaaS experiments (Next.js + serverless).
+- 🧪 UI performance lab: profiling React suspense & RSC.
+- 🛰️ Automation scripts that keep repos clean on autopilot.
+
+### Quick pulse
+`Ship speed` ⚡⚡⚡⚡✦ `Bug radar` ✅✅✅✅✦ `Coffee` ☕☕☕☕☕
+
+   </td>
+    <td width="38%" align="center" valign="top">
+      <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="250" alt="terminal" />
+      <br>
+      <img src="https://user-images.githubusercontent.com/74038190/212750455-0c4336d4-6473-4ce3-9d3a-5af8a4b7aa24.gif" width="250" alt="neon grid" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider">
+</p>
 
 ## Tech I reach for
 **Languages**
@@ -73,6 +96,16 @@
   <img src="https://img.shields.io/badge/npm-cb3837?style=for-the-badge&logo=npm&logoColor=white" />
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider">
+</p>
+
+## Side quests & sparks
+- 🎯 Rebuilding a personal design system with tokens + semantic color ramps.
+- 🎹 Generating lo-fi code-session loops with JS audio APIs.
+- 🕹️ Tiny game prototypes to keep vanilla JS muscles fresh.
+- 🌍 Always open to collabs: drop an issue or a DM.
+
 ## What I'm up to
 - 🧪 Building small projects to stress‑test ideas quickly.
 - ⚡ Practicing performance profiling on React + Node stacks.
@@ -104,6 +137,3 @@
 </p>
 
 <p align="center"><em>⭐ If you like something here, feel free to star a repo or reach out to collaborate.</em></p>
-
-
-
