@@ -24,7 +24,6 @@
     <td width="62%" valign="top">
 
 ### About me
-<img src="https://shorturl.at/odfzC" width="500" align="right">
 
 - 🌱 Sharpening full-stack chops with **React**, **TypeScript**, and **Node.js**.
 - 🧭 Turning vague requirements into **smooth, shipped user flows**.
@@ -48,7 +47,7 @@
 
    </td>
     <td width="38%" align="center" valign="top">
-      <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="250" alt="terminal" />
+      <img src="https://shorturl.at/odfzC" width="500" align="right">
       <br>
       <img src="https://user-images.githubusercontent.com/74038190/212750455-0c4336d4-6473-4ce3-9d3a-5af8a4b7aa24.gif" width="250" alt="neon grid" />
     </td>
