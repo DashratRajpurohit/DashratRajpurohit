@@ -21,7 +21,7 @@
 
 <table>
   <tr>
-    <td width="62%" valign="top">
+    <td width="52%" valign="top">
 
 ### About me
 
@@ -46,12 +46,61 @@
 </p>
 
    </td>
-    <td width="38%" align="center" valign="top">
+    <td width="48%" align="center" valign="top">
       <img src="https://shorturl.at/odfzC" width="500" align="right">
       <br>
       <img src="https://user-images.githubusercontent.com/74038190/212750455-0c4336d4-6473-4ce3-9d3a-5af8a4b7aa24.gif" width="250" alt="neon grid" />
     </td>
   </tr>
+</table>
+
+## 🌱 Frontend & Web Dev <img height="40" alt="Anshuman Jadiya" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+
+</div>
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<br>
+
+🎓 A curious student & passionate **Vibe Coding enthusiast** who loves building creative apps. <br> 
+💡 I believe C++ is the perfect language for beginners, and I want to **share its beauty** with the world.  
+🚀 Currently exploring new ideas, contributing to open source, and building my **C++ Beauty Suite**. <br>
+❓ Exploring ideas, building systems, and improving problem-solving skills
+🧠 Currently working on strengthening core concepts and writing cleaner, scalable code
+
+
+<br><br>
+<div align=center>
+  <table align="center">
+  <thead align="center">
+    <tr>
+      <td><b>👀 Profile Views</b></td>
+      <td><b>👤 Followers</b></td>
+      <td><b>🌟 Stars</b></td>
+      <td><b>✅ Awesome</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        
+  ![Visitors](https://api.visitorbadge.io/api/visitors?path=DashratRajpurohit%2FDashratRajpurohit&label=Total%20Visitors&labelColor=%23000&countColor=%230A0209&style=flat-square)
+      </td>
+      <td>
+        <a href="https://github.com/DashratRajpurohit">
+          <img src="https://img.shields.io/github/followers/DashratRajpurohit?label=Followers&style=social" alt="GitHub Followers"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/DashratRajpurohit">
+          <img src="https://img.shields.io/github/stars/DashratRajpurohit?label=Stars&style=social" alt="GitHub Stars"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/DashratRajpurohit">
+          <img src="https://awesome.re/badge.svg" alt="Awesome"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 <p align="center">
