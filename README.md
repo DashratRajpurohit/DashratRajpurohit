@@ -1,17 +1,6 @@
 ﻿<!-- Profile README for Dashrat Rajpurohit -->
 
 <!-- in this section the Name Dashrat Rajpurohit is not fullely coverd by the blue animation fix it -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=160&section=header&text=Dashrat%20Rajpurohit&fontSize=38&fontAlign=50&fontColor=ffffff" alt="header" />
-</p>
-
-<div align="center">
-  <a href="./Top.html" title="Open the animated hero locally (Top.html)">
-    <img src="./assets-banner.png" alt="Top hero preview" style="width:100%; max-width:1040px; border-radius:12px; border:1px solid #111827;" />
-  </a>
-  <br />
-  <sub>Click the banner to open <code>Top.html</code> locally for the full interactive version.</sub>
-</div>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
