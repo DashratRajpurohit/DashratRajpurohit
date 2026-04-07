@@ -1,6 +1,14 @@
-﻿<!-- Profile README for Dashrat Rajpurohit -->
+<!-- Profile README for Dashrat Rajpurohit -->
 
-<!-- in this section the Name Dashrat Rajpurohit is not fullely coverd by the blue animation fix it -->
+<!-- want here the a same code of Top.html so it looks same-->
+
+<p align="center">
+  <a href="./Top.html" title="Open the animated hero locally (Top.html)">
+    <img src="./assets-banner.png" alt="Top hero preview" style="width:100%; max-width:1040px; border-radius:12px; border:1px solid #111827;" />
+  </a>
+  <br />
+  <sub>Click the banner to open <code>Top.html</code> locally for the full interactive version.</sub>
+</p>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -13,7 +21,6 @@
   <img src="https://komarev.com/ghpvc/?username=DashratRajpurohit&label=Profile%20views&color=0ea5e9&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/badge/Focus-React%20%7C%20Node%20%7C%20TypeScript-0f172a?style=for-the-badge&logo=target" alt="focus" />
 </p>
-
 
 
 <table>
