@@ -23,17 +23,13 @@
   <tr>
     <td width="52%" valign="top">
 
-### 👋 About Me
+### <h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, welcome! </h2>
 
-<p align="center"><em>𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒂𝒃𝒐𝒖𝒕 𝒃𝒓𝒊𝒏𝒈𝒊𝒏𝒈 𝒊𝒅𝒆𝒂𝒔 𝒕𝒐 𝒍𝒊𝒇𝒆. 𝑬𝒙𝒑𝒍𝒐𝒓𝒆 𝒂𝒍𝒍 𝒐𝒇 𝒎𝒚 𝒑𝒓𝒐𝒋𝒆𝒄𝒕𝒔.</em></p>
-
-> Full-stack developer in the making — turning ideas into polished, user-friendly web experiences.
-
-- 🌱 Building with **React**, **JavaScript**, and **Node.js**
-- 🧭 Turning vague requirements into **shipped user flows**
-- 🛠️ Obsessed with **DX**: linting, tests, one-click deploys
-- 📚 Deep-diving **performance budgets** & **testing pyramids**
-- 🤝 I ship faster with a teammate — ping me!
+- 🌱 𝑩𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒘𝒊𝒕𝒉 𝑹𝒆𝒂𝒄𝒕, 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕, 𝒂𝒏𝒅 𝑵𝒐𝒅𝒆.𝒋𝒔
+- 🧭 𝑻𝒖𝒓𝒏𝒊𝒏𝒈 𝒗𝒂𝒈𝒖𝒆 𝒓𝒆𝒒𝒖𝒊𝒓𝒆𝒎𝒆𝒏𝒕𝒔 𝒊𝒏𝒕𝒐 𝒔𝒉𝒊𝒑𝒑𝒆𝒅 𝒖𝒔𝒆𝒓 𝒇𝒍𝒐𝒘𝒔
+- 🛠️ 𝑶𝒃𝒔𝒆𝒔𝒔𝒆𝒅 𝒘𝒊𝒕𝒉 𝑫𝑿: 𝒍𝒊𝒏𝒕𝒊𝒏𝒈, 𝒕𝒆𝒔𝒕𝒔, 𝒐𝒏𝒆-𝒄𝒍𝒊𝒄𝒌 𝒅𝒆𝒑𝒍𝒐𝒚𝒔
+- 📚 𝑫𝒆𝒆𝒑-𝒅𝒊𝒗𝒊𝒏𝒈 𝒑𝒆𝒓𝒇𝒐𝒓𝒎𝒂𝒏𝒄𝒆 𝒃𝒖𝒅𝒈𝒆𝒕𝒔 & 𝒕𝒆𝒔𝒕𝒊𝒏𝒈 𝒑𝒚𝒓𝒂𝒎𝒊𝒅𝒔
+- 🤝 𝑰 𝒔𝒉𝒊𝒑 𝒇𝒂𝒔𝒕𝒆𝒓 𝒘𝒊𝒕𝒉 𝒂 𝒕𝒆𝒂𝒎𝒎𝒂𝒕𝒆 — 𝒑𝒊𝒏𝒈 𝒎𝒆!
 
 ### 🔗 Let's Connect
 
@@ -58,7 +54,7 @@
   </tr>
 </table>
 
-## 🌱 Frontend & Web Dev <img height="40" alt="Anshuman Jadiya" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+## <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/> Frontend & Web Dev <img height="40" alt="Anshuman Jadiya" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
 </div>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
