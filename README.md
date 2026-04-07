@@ -1,11 +1,10 @@
 <!-- Profile README for Dashrat Rajpurohit -->
 
-
 <p align="center">
-  <iframe src="https://playful-gumption-09ec54.netlify.app/" width="100%" height="440" style="border:1px solid #111827; border-radius:12px;" title="Live banner from Netlify"></iframe>
-  <br />
-  <sub>If the embed doesn’t load in GitHub, open it here: <a href="https://playful-gumption-09ec54.netlify.app/" target="_blank">Netlify live banner</a>.</sub>
+  <img src="Gemini_Generated_Image_av7676av7676av76 (1).png" alt="Profile Banner" width="100%" />
 </p>
+
+
 
 
 
