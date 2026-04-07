@@ -198,11 +198,22 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DashratRajpurohit&bg_color=ffffff&color=0ea5e9&line=0ea5e9&point=0f172a&area=true&hide_border=true" alt="activity graph" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DashratRajpurohit&theme=transparent&row=1&column=7&no-frame=true&margin-w=10&margin-h=10&title_color=0ea5e9&icon_color=0ea5e9" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DashratRajpurohit&theme=transparent" alt="Profile Summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DashratRajpurohit&theme=transparent" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats-in-detail?username=DashratRajpurohit&theme=transparent" alt="Stats In Detail" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DashratRajpurohit/DashratRajpurohit/output/github-contribution-grid-snake.svg" alt="contribution snake">
+</p>
 
 
 ### Profile Views
