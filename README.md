@@ -14,7 +14,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to%20collaborations-0ea5e9?style=for-the-badge&logo=handshake&logoColor=white" alt="collaboration" />
   <img src="https://komarev.com/ghpvc/?username=DashratRajpurohit&label=Profile%20views&color=0ea5e9&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Focus-React%20%7C%20Node%20%7C%20TypeScript-0f172a?style=for-the-badge&logo=target" alt="focus" />
+  <img src="https://img.shields.io/badge/Focus-React%20%7C%20Node%20%7C%20JavaScript-0f172a?style=for-the-badge&logo=target" alt="focus" />
 </p>
 
 
@@ -25,9 +25,11 @@
 
 ### 👋 About Me
 
+<p align="center"><em>𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒂𝒃𝒐𝒖𝒕 𝒃𝒓𝒊𝒏𝒈𝒊𝒏𝒈 𝒊𝒅𝒆𝒂𝒔 𝒕𝒐 𝒍𝒊𝒇𝒆. 𝑬𝒙𝒑𝒍𝒐𝒓𝒆 𝒂𝒍𝒍 𝒐𝒇 𝒎𝒚 𝒑𝒓𝒐𝒋𝒆𝒄𝒕𝒔.</em></p>
+
 > Full-stack developer in the making — turning ideas into polished, user-friendly web experiences.
 
-- 🌱 Building with **React**, **TypeScript**, and **Node.js**
+- 🌱 Building with **React**, **JavaScript**, and **Node.js**
 - 🧭 Turning vague requirements into **shipped user flows**
 - 🛠️ Obsessed with **DX**: linting, tests, one-click deploys
 - 📚 Deep-diving **performance budgets** & **testing pyramids**
