@@ -48,8 +48,8 @@
 </p>
 
    </td>
-    <td width="48%" align="center" valign="top">
-      <img src="https://shorturl.at/odfzC" width="100%" style="max-width:400px;">
+    <td width="48%" align="center" valign="middle">
+      <img src="https://shorturl.at/odfzC" style="width:100%;max-width:380px;height:auto;" alt="About">
     </td>
   </tr>
 </table>
