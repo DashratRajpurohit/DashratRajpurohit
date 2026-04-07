@@ -211,6 +211,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats-in-detail?username=DashratRajpurohit&theme=transparent" alt="Stats In Detail" />
 </p>
 
+## 🐍 Contribution Snake
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/DashratRajpurohit/DashratRajpurohit/output/github-contribution-grid-snake.svg"/>
 </p>
