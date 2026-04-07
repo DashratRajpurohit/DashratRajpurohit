@@ -23,15 +23,17 @@
   <tr>
     <td width="52%" valign="top">
 
-### About me
+### 👋 About Me
 
-- 🌱 Sharpening full-stack chops with **React**, **TypeScript**, and **Node.js**.
-- 🧭 Turning vague requirements into **smooth, shipped user flows**.
-- 🛠️ Obsessed with **DX**: linting, tests, previews, one-click deploys.
-- 📚 Deep-diving **performance budgets** and **testing pyramids** right now.
-- 🤝 Ping me for pair-programming; I ship faster with a teammate.
+> Full-stack developer in the making — turning ideas into polished, user-friendly web experiences.
 
-### Let's Connect
+- 🌱 Building with **React**, **TypeScript**, and **Node.js**
+- 🧭 Turning vague requirements into **shipped user flows**
+- 🛠️ Obsessed with **DX**: linting, tests, one-click deploys
+- 📚 Deep-diving **performance budgets** & **testing pyramids**
+- 🤝 I ship faster with a teammate — ping me!
+
+### 🔗 Let's Connect
 
 <p align="center">
   <a href="https://dashrat.netlify.app/" target="_blank">
