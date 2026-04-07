@@ -1,8 +1,17 @@
 ﻿<!-- Profile README for Dashrat Rajpurohit -->
 
+<!-- in this section the Name Dashrat Rajpurohit is not fullely coverd by the blue animation fix it -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=120&section=header&text=Dashrat%20Rajpurohit&fontSize=36&fontAlign=50&fontColor=ffffff" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=160&section=header&text=Dashrat%20Rajpurohit&fontSize=38&fontAlign=50&fontColor=ffffff" alt="header" />
 </p>
+
+<div align="center">
+  <strong>🎨 Interactive top banner</strong><br />
+  <a href="./Top.html" title="Open the animated hero locally (Top.html)">
+    <img src="https://img.shields.io/badge/Open%20Top.html-0ea5e9?style=for-the-badge&logo=github" alt="Open Top.html" />
+  </a>
+  <br /><sub>Open the file locally for the animated layout pulled from my toolbox.</sub>
+</div>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -16,17 +25,7 @@
   <img src="https://img.shields.io/badge/Focus-React%20%7C%20Node%20%7C%20TypeScript-0f172a?style=for-the-badge&logo=target" alt="focus" />
 </p>
 
-<p align="center">
-  <a href="https://dashrat.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/dashrat-rajpurohit/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://docs.google.com/document/d/1BLxpwyhQRmfOrfPq7UMc_XUtYadRSPRP/edit?usp=sharing&ouid=100913256563492753565&rtpof=true&sd=true" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-2563eb?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
-  </a>
-</p>
+
 
 <table>
   <tr>
@@ -39,13 +38,19 @@
 - 📚 Deep-diving **performance budgets** and **testing pyramids** right now.
 - 🤝 Ping me for pair-programming; I ship faster with a teammate.
 
-### Now building
-- ⚡ Micro SaaS experiments (Next.js + serverless).
-- 🧪 UI performance lab: profiling React suspense & RSC.
-- 🛰️ Automation scripts that keep repos clean on autopilot.
+### Let’s connect
 
-### Quick pulse
-`Ship speed` ⚡⚡⚡⚡✦ `Bug radar` ✅✅✅✅✦ `Coffee` ☕☕☕☕☕
+<p align="center">
+  <a href="https://dashrat.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/dashrat-rajpurohit/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://docs.google.com/document/d/1BLxpwyhQRmfOrfPq7UMc_XUtYadRSPRP/edit?usp=sharing&ouid=100913256563492753565&rtpof=true&sd=true" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-2563eb?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
+  </a>
+</p>
 
    </td>
     <td width="38%" align="center" valign="top">
@@ -58,6 +63,22 @@
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider">
+</p>
+
+## 🌍 Priority & Current Stack
+- 🚀 Shaping a reusable **React + TypeScript starter** with linting, tests, story previews, and one-click deploys.
+- 🔁 Practising **API design in Node/Express** and tightening error-handling + observability defaults.
+- ⚡ Keeping UI lean with **Vite + Tailwind**, perf budgets, and component accessibility passes.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=000" />
+  <img src="https://img.shields.io/badge/Vite-936cff?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ## Tech I reach for
@@ -116,6 +137,7 @@
 - 🧭 **Up next:** API observability starter kit for side projects.
 - 🧊 **Cool-down:** Reading “Designing Data-Intensive Applications”.
 
+<!-- this micro dashboard is not working -->
 ## Micro dashboards
 <p align="center">
   <img src="https://progress-bar.dev/82/?title=frontend%20polish&width=180&color=0ea5e9" />
