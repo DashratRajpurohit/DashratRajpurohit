@@ -1,7 +1,5 @@
 <!-- Profile README for Dashrat Rajpurohit -->
 
-<!-- want here the a same code of Top.html so it looks same-->
-
 <p align="center">
   <a href="./Top.html" title="Open the animated hero locally (Top.html)">
     <img src="./assets-banner.png" alt="Top hero preview" style="width:100%; max-width:1040px; border-radius:12px; border:1px solid #111827;" />
@@ -10,11 +8,11 @@
   <sub>Click the banner to open <code>Top.html</code> locally for the full interactive version.</sub>
 </p>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=0EA5E9&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Dashrat+Rajpurohit;Full-stack+developer+in+the+making;I+build+practical+and+polished+web+experiences" alt="Typing SVG" />
-  </a>
-</h1>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EA5E9&center=true&vCenter=true&width=520&lines=Backend+Support;Frontend+Developer;Full-stack+Developer+in+the+making;Open+Source+Contributor)](https://git.io/typing-svg)
+
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to%20collaborations-0ea5e9?style=for-the-badge&logo=handshake&logoColor=white" alt="collaboration" />
@@ -22,6 +20,34 @@
   <img src="https://img.shields.io/badge/Focus-React%20%7C%20Node%20%7C%20TypeScript-0f172a?style=for-the-badge&logo=target" alt="focus" />
 </p>
 
+<div align="center">
+  <table>
+    <thead align="center">
+      <tr>
+        <td><b>👀 Profile Views</b></td>
+        <td><b>👥 Followers</b></td>
+        <td><b>⭐ Stars</b></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <img src="https://api.visitorbadge.io/api/visitors?path=DashratRajpurohit%2Fprofile&label=Total%20Visitors&labelColor=0f172a&countColor=0ea5e9&style=flat-square" alt="Visitors"/>
+        </td>
+        <td>
+          <a href="https://github.com/DashratRajpurohit">
+            <img src="https://img.shields.io/github/followers/DashratRajpurohit?label=Followers&style=social" alt="GitHub Followers"/>
+          </a>
+        </td>
+        <td>
+          <a href="https://github.com/DashratRajpurohit">
+            <img src="https://img.shields.io/github/stars/DashratRajpurohit?label=Stars&style=social" alt="GitHub Stars"/>
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 <table>
   <tr>
@@ -56,6 +82,18 @@
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider">
+</p>
+
+## 🌱 Current Stack <img height="30" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" alt="stack cat"/>
+
+- ⚛️ React + TypeScript for frontends <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200" align="right" />
+- 🧭 Node.js / Express for APIs with solid logging & error handling
+- 🗄️ MongoDB / MySQL depending on workload shape
+- ⚡ Vite + Tailwind for fast DX and lean bundles
+- ✅ Jest + React Testing Library for UI confidence
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider">
