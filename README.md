@@ -212,7 +212,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Parmarprashant/Parmarprashant/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/DashratRajpurohit/DashratRajpurohit/output/github-contribution-grid-snake.svg"/>
 </p>
 
 
