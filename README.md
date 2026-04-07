@@ -1,18 +1,13 @@
 <!-- Profile README for Dashrat Rajpurohit -->
 
+
 <p align="center">
-  <a href="./Top.html" title="Open the animated hero locally (Top.html)">
-    <img src="./assets-banner.png" alt="Top hero preview" style="width:100%; max-width:1040px; border-radius:12px; border:1px solid #111827;" />
-  </a>
+  <iframe src="https://playful-gumption-09ec54.netlify.app/" width="100%" height="440" style="border:1px solid #111827; border-radius:12px;" title="Live banner from Netlify"></iframe>
   <br />
-  <sub>Click the banner to open <code>Top.html</code> locally for the full interactive version.</sub>
+  <sub>If the embed doesn’t load in GitHub, open it here: <a href="https://playful-gumption-09ec54.netlify.app/" target="_blank">Netlify live banner</a>.</sub>
 </p>
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EA5E9&center=true&vCenter=true&width=520&lines=Backend+Support;Frontend+Developer;Full-stack+Developer+in+the+making;Open+Source+Contributor)](https://git.io/typing-svg)
 
-</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to%20collaborations-0ea5e9?style=for-the-badge&logo=handshake&logoColor=white" alt="collaboration" />
