@@ -5,10 +5,6 @@
   <img src="Gemini_Generated_Image_av7676av7676av76 (1).png" alt="Profile Banner" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=120&section=header&text=Dashrat%20Rajpurohit&fontSize=36&fontAlign=50&fontColor=ffffff" alt="header" />
-</p>
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=0EA5E9&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Dashrat+Rajpurohit;Full-stack+developer+in+the+making;I+build+practical+and+polished+web+experiences" alt="Typing SVG" />
@@ -28,13 +24,15 @@
     <td width="62%" valign="top">
 
 ### About me
+<img src="https://shorturl.at/odfzC" width="500" align="right">
+
 - 🌱 Sharpening full-stack chops with **React**, **TypeScript**, and **Node.js**.
 - 🧭 Turning vague requirements into **smooth, shipped user flows**.
 - 🛠️ Obsessed with **DX**: linting, tests, previews, one-click deploys.
 - 📚 Deep-diving **performance budgets** and **testing pyramids** right now.
 - 🤝 Ping me for pair-programming; I ship faster with a teammate.
 
-// add a heading heare like let's connect 
+### Let's Connect
 
 <p align="center">
   <a href="https://dashrat.netlify.app/" target="_blank">
