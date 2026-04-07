@@ -49,9 +49,7 @@
 
    </td>
     <td width="48%" align="center" valign="top">
-      <img src="https://shorturl.at/odfzC" width="500" align="right">
-      <br>
-      <img src="https://user-images.githubusercontent.com/74038190/212750455-0c4336d4-6473-4ce3-9d3a-5af8a4b7aa24.gif" width="250" alt="neon grid" />
+      <img src="https://shorturl.at/odfzC" width="100%" style="max-width:400px;">
     </td>
   </tr>
 </table>
