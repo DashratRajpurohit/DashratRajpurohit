@@ -54,6 +54,10 @@
   </tr>
 </table>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider">
+</p>
+
 ## <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/> Frontend & Web Dev <img height="40" alt="Anshuman Jadiya" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
 </div>
@@ -107,7 +111,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider">
 </p>
 
-## Tech I reach for
+## <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />Tech I Reach For</h3>
 **Languages**
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -200,8 +204,36 @@
   <img alt="snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
+
+### Profile Views
+<table>
+  <tr>
+    <td>
+<img src="https://count.getloli.com/@DashratRajpurohit?name=DashratRajpurohit&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=1" width="500">
+    </td>
+  </tr>
+</table>
+</div>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=100&section=footer" width="100%" alt="footer" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider">
 </p>
 
-<p align="center"><em>⭐ If you like something here, feel free to star a repo or reach out to collaborate.</em></p>
+<div align="center">
+  
+  ![mona-whisper](https://github.com/user-attachments/assets/79cb265a-94a9-4455-9ea8-56ea5fe249ed)<a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=40&pause=1000&color=F75C03&center=true&vCenter=true&width=700&height=60&lines=Don't+Forget+to+Follow!" alt="Follow DashratRajpurohit" /></a>
+</div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider">
+</p>
+
+<div align="center">
+  
+  ##### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> _Where creativity meets the beauty in code_ 
+
+</div>
+
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting%20My%20Profile!&fontSize=20&fontColor=fff&animation=twinkling"/>
+
+   ###### DashratRajpurohit________________________________________________________________________________________________© 2025 Dashrat Rajpurohit – Crafted with ❤️
