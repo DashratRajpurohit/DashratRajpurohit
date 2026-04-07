@@ -11,6 +11,9 @@
     <img src="https://img.shields.io/badge/Open%20Top.html-0ea5e9?style=for-the-badge&logo=github" alt="Open Top.html" />
   </a>
   <br /><sub>Open the file locally for the animated layout pulled from my toolbox.</sub>
+  <br />
+  <!-- Local preview for IDE / GitHub Page viewers; iframes are stripped on GitHub README but work in IDE markdown preview -->
+  <iframe src="./Top.html" width="100%" height="410" style="border:1px solid #e2e8f0; border-radius:12px; margin-top:10px;" title="Top banner live preview"></iframe>
 </div>
 
 <h1 align="center">
