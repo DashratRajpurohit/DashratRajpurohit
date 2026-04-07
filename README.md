@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="Gemini_Generated_Image_av7676av7676av76 (1).png" alt="Profile Banner" width="100%" />
+  <img src="assets/Gemini_Generated_Image_av7676av7676av76 (1).png" alt="Profile Banner" width="100%" />
 </p>
 
 <h1 align="center">
@@ -212,7 +212,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DashratRajpurohit/DashratRajpurohit/output/github-contribution-grid-snake.svg" alt="contribution snake">
+  <img src="https://raw.githubusercontent.com/Parmarprashant/Parmarprashant/output/github-contribution-grid-snake.svg"/>
 </p>
 
 
@@ -247,4 +247,4 @@
 
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting%20My%20Profile!&fontSize=20&fontColor=fff&animation=twinkling"/>
 
-   ###### DashratRajpurohit________________________________________________________________________________________________© 2025 Dashrat Rajpurohit – Crafted with ❤️
+   ###### DashratRajpurohit__________________________________________________________________________________________________© 2025 Dashrat Rajpurohit – Crafted with ❤️
