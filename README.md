@@ -50,6 +50,8 @@
    </td>
     <td width="48%" align="center" valign="middle">
       <img src="https://shorturl.at/odfzC" style="width:100%;max-width:380px;height:auto;" alt="About">
+      <br>
+      <img src="https://user-images.githubusercontent.com/74038190/212750455-0c4336d4-6473-4ce3-9d3a-5af8a4b7aa24.gif" style="width:100%;max-width:300px;" alt="neon grid" />
     </td>
   </tr>
 </table>
