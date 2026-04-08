@@ -151,6 +151,38 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider">
 </p>
 
+
+## <img src="https://media.tenor.com/q4L3wKD-P7YAAAAj/hydra-we-bhack.gif" height="30" style="margin-right: 10px; vertical-align: middle;"/> My Tech Arsenal 
+
+<a href="https://github.com/DashratRajpurohit"> <div align=center>
+  
+  ![](https://github-trophies.vercel.app/?username=DashratRajpurohit&theme=discord&no-frame=true&no-bg=true&margin-w=4)
+  </div>
+</a><br>
+   
+   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DashratRajpurohit&show_icons=true&count_private=true&theme=radical&hide_border=true)<br>
+![](https://nirzak-streak-stats.vercel.app/?user=DashratRajpurohit&theme=radical&hide_border=false)<br>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DashratRajpurohit&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DashratRajpurohit&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DashratRajpurohit&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DashratRajpurohit&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DashratRajpurohit&theme=radical&utcOffset=5.3)
+<img src="https://github-contributor-stats.vercel.app/api?username=DashratRajpurohit&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo"><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DashratRajpurohit&layout=compact&theme=radical&hide_border=true&card_width=400" alt="Most Used Languages" />
+<br><br>
+
+ ![My GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DashratRajpurohit&theme=dracula&custom_title=Dashrat%20Rajpurohit's%20Contribution%20Graph)  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)<br>
+<img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Jokes Card" align="right" width="300" height="180"/>
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-91%20hrs%206%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-86.07%20thousand%20lines%20of%20code-blue?style=flat)
+
+
 ## Side quests & sparks
 - 🎯 Rebuilding a personal design system with tokens + semantic color ramps.
 - 🎹 Generating lo-fi code-session loops with JS audio APIs.
