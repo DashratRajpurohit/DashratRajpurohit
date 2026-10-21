@@ -3,9 +3,9 @@
     "O",
     "X",
     "",
-    "",
     "X",
-    "",
+    "X",
+    "O",
     "",
     "O",
     ""
@@ -22,6 +22,11 @@
   "recentMoves": [
     {
       "user": "DashratRajpurohit",
+      "square": 3,
+      "at": "2026-10-21T15:49:33Z"
+    },
+    {
+      "user": "DashratRajpurohit",
       "square": 1,
       "at": "2026-10-21T13:46:59Z"
     },
@@ -32,6 +37,6 @@
     }
   ],
   "topPlayers": {
-    "DashratRajpurohit": 2
+    "DashratRajpurohit": 3
   }
 }
