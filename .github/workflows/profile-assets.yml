@@ -34,7 +34,7 @@ jobs:
           cp -r dist/. site/
           cp -r profile-3d-contrib site/
 
-      - uses: crazy-max/ghaction-github-pages@v3
+      - uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: site
