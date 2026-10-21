@@ -1,13 +1,13 @@
 {
   "board": [
     "O",
-    "",
+    "X",
     "",
     "",
     "X",
     "",
     "",
-    "",
+    "O",
     ""
   ],
   "players": [
@@ -22,11 +22,16 @@
   "recentMoves": [
     {
       "user": "DashratRajpurohit",
+      "square": 1,
+      "at": "2026-10-21T13:46:59Z"
+    },
+    {
+      "user": "DashratRajpurohit",
       "square": 4,
       "at": "2026-10-21T02:54:58Z"
     }
   ],
   "topPlayers": {
-    "DashratRajpurohit": 1
+    "DashratRajpurohit": 2
   }
 }
