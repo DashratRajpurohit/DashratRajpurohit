@@ -1,8 +1,32 @@
 {
-  "board": ["", "", "", "", "", "", "", "", ""],
-  "players": [],
-  "stats": { "visitors": 0, "bot": 0, "draws": 0 },
+  "board": [
+    "O",
+    "",
+    "",
+    "",
+    "X",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "players": [
+    "DashratRajpurohit"
+  ],
+  "stats": {
+    "visitors": 0,
+    "bot": 0,
+    "draws": 0
+  },
   "lastGame": null,
-  "recentMoves": [],
-  "topPlayers": {}
+  "recentMoves": [
+    {
+      "user": "DashratRajpurohit",
+      "square": 4,
+      "at": "2026-10-21T02:54:58Z"
+    }
+  ],
+  "topPlayers": {
+    "DashratRajpurohit": 1
+  }
 }
