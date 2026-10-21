@@ -1,0 +1,17 @@
+name: ✍️ Sign the guestbook
+description: Leave a short message on my profile. It shows up there within a minute or so.
+title: "Guestbook"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for stopping by! Write a short message and press **Create**.
+        A bot adds it to my profile and closes this issue automatically.
+  - type: textarea
+    id: message
+    attributes:
+      label: Message
+      description: Up to 140 characters. Plain text only; links and formatting are shown as text.
+      placeholder: Hey Dashrat, great profile! 👋
+    validations:
+      required: true

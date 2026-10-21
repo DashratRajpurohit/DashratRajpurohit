@@ -1,0 +1,11 @@
+name: 💬 Ask me anything
+description: Ask me about React, the MERN stack, open source, college, anything.
+title: "AMA: "
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: Your question
+      placeholder: How did you get your first open-source PR merged?
+    validations:
+      required: true

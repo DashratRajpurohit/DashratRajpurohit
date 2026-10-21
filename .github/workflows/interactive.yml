@@ -1,0 +1,30 @@
+name: Interactive profile
+
+on:
+  issues:
+    types: [opened]
+  schedule:
+    - cron: "30 */6 * * *"   # Picks up any issue whose run got cancelled during a busy moment
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+# One run at a time, so moves are applied in order and pushes don't race
+concurrency:
+  group: interactive-profile
+  cancel-in-progress: false
+
+jobs:
+  update:
+    if: >-
+      github.event_name != 'issues' ||
+      startsWith(github.event.issue.title, 'ttt|') ||
+      startsWith(github.event.issue.title, 'Guestbook')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: node .github/scripts/interactive.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

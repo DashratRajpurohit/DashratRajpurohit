@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="72" viewBox="0 0 72 72" role="img" aria-label="empty square">
+  <style>
+    .plus{animation:breathe 2.4s ease-in-out infinite}
+    @keyframes breathe{50%{opacity:.25}}
+    @media (prefers-reduced-motion: reduce){.plus{animation:none}}
+  </style>
+  <rect x="3" y="3" width="66" height="66" rx="14" fill="#8b949e" fill-opacity=".07" stroke="#8b949e" stroke-opacity=".55" stroke-width="2" stroke-dasharray="6 5"/>
+  <g class="plus" stroke="#2da44e" stroke-width="3" stroke-linecap="round" opacity=".7">
+    <line x1="36" y1="28" x2="36" y2="44"/>
+    <line x1="28" y1="36" x2="44" y2="36"/>
+  </g>
+</svg>

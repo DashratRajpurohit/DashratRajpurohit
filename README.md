@@ -1,284 +1,314 @@
 <!-- Profile README for Dashrat Rajpurohit -->
 
-
 <p align="center">
-  <img src="assets/Gemini_Generated_Image_av7676av7676av76 (1).png" alt="Profile Banner" width="100%" />
+  <img src="assets/banner.jpg" alt="Dashrat Rajpurohit: full-stack developer and open-source contributor" width="100%" />
 </p>
 
-<h1 align="center">
+<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=0EA5E9&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Dashrat+Rajpurohit;Full-stack+developer+in+the+making;I+build+practical+and+polished+web+experiences" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=2DA44E&center=true&vCenter=true&width=720&lines=Hi+%F0%9F%91%8B%2C+I'm+Dashrat+Rajpurohit;Full-stack+MERN+developer;Bridging+design+and+development;Open-source+%40+Headlamp+%C2%B7+Phoenix+%C2%B7+eventyay" alt="Hi, I'm Dashrat Rajpurohit, a full-stack MERN developer and open-source contributor" />
   </a>
-</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20collaborations-0ea5e9?style=for-the-badge&logo=handshake&logoColor=white" alt="collaboration" />
-  <img src="https://komarev.com/ghpvc/?username=DashratRajpurohit&label=Profile%20views&color=0ea5e9&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Focus-React%20%7C%20Node%20%7C%20JavaScript-0f172a?style=for-the-badge&logo=target" alt="focus" />
 </p>
 
+<p align="center">
+  <a href="https://dashrat.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-dashrat.netlify.app-2da44e?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/dashrat-rajpurohit/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" /></a>
+  <a href="https://x.com/Dashrat_Singh_"><img src="https://img.shields.io/badge/X-@Dashrat__Singh__-1f2328?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" alt="X (Twitter)" /></a>
+  <a href="https://docs.google.com/document/d/1BLxpwyhQRmfOrfPq7UMc_XUtYadRSPRP/edit?usp=sharing&ouid=100913256563492753565&rtpof=true&sd=true"><img src="https://img.shields.io/badge/Resume-View-4285f4?style=for-the-badge&logo=googledocs&logoColor=white&labelColor=0d1117" alt="Resume" /></a>
+</p>
 
+<p align="center">
+  <a href="https://github.com/DashratRajpurohit?tab=followers"><img src="https://img.shields.io/github/followers/DashratRajpurohit?label=followers&style=flat-square&logo=github&labelColor=0d1117&color=2da44e" alt="Followers" /></a>
+  <a href="https://github.com/search?q=author%3ADashratRajpurohit+is%3Apr+is%3Amerged+-user%3ADashratRajpurohit&type=pullrequests"><img src="https://img.shields.io/github/issues-search?query=author%3ADashratRajpurohit%20is%3Apr%20is%3Amerged%20-user%3ADashratRajpurohit&label=merged%20PRs&style=flat-square&logo=git&logoColor=white&labelColor=0d1117&color=2da44e" alt="Merged pull requests" /></a>
+  <img src="https://img.shields.io/badge/based%20in-Jodhpur%2C%20India-2da44e?style=flat-square&logo=googlemaps&logoColor=white&labelColor=0d1117" alt="Based in Jodhpur, India" />
+  <img src="https://img.shields.io/badge/open%20to-collaborations-2da44e?style=flat-square&logo=handshake&logoColor=white&labelColor=0d1117" alt="Open to collaborations" />
+</p>
+
+<p align="center">
+  <a href="#-about-me">About</a> &nbsp;·&nbsp;
+  <a href="#-open-source">Open source</a> &nbsp;·&nbsp;
+  <a href="#-featured-projects">Projects</a> &nbsp;·&nbsp;
+  <a href="#-tech-stack">Tech stack</a> &nbsp;·&nbsp;
+  <a href="#-github-stats">Stats</a> &nbsp;·&nbsp;
+  <a href="#-interactive-corner">Play & sign</a>
+</p>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## 🐱 About me
 
 <table>
   <tr>
-    <td width="52%" valign="top">
+    <td width="56%" valign="top">
 
-### <h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, welcome! </h2>
+I'm a **Computer Science Engineering student at CodingGita × Swaminarayan University** (batch 2025–29), from Jodhpur, Rajasthan <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="18" alt="" />. I like the part of software where design and development meet: take a rough idea, shape the interface, then ship it end to end.
 
-- 🌱 𝑩𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒘𝒊𝒕𝒉 𝑹𝒆𝒂𝒄𝒕, 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕, 𝒂𝒏𝒅 𝑵𝒐𝒅𝒆.𝒋𝒔
-- 🧭 𝑻𝒖𝒓𝒏𝒊𝒏𝒈 𝒗𝒂𝒈𝒖𝒆 𝒓𝒆𝒒𝒖𝒊𝒓𝒆𝒎𝒆𝒏𝒕𝒔 𝒊𝒏𝒕𝒐 𝒔𝒉𝒊𝒑𝒑𝒆𝒅 𝒖𝒔𝒆𝒓 𝒇𝒍𝒐𝒘𝒔
-- 🛠️ 𝑶𝒃𝒔𝒆𝒔𝒔𝒆𝒅 𝒘𝒊𝒕𝒉 𝑫𝑿: 𝒍𝒊𝒏𝒕𝒊𝒏𝒈, 𝒕𝒆𝒔𝒕𝒔, 𝒐𝒏𝒆-𝒄𝒍𝒊𝒄𝒌 𝒅𝒆𝒑𝒍𝒐𝒚𝒔
-- 📚 𝑫𝒆𝒆𝒑-𝒅𝒊𝒗𝒊𝒏𝒈 𝒑𝒆𝒓𝒇𝒐𝒓𝒎𝒂𝒏𝒄𝒆 𝒃𝒖𝒅𝒈𝒆𝒕𝒔 & 𝒕𝒆𝒔𝒕𝒊𝒏𝒈 𝒑𝒚𝒓𝒂𝒎𝒊𝒅𝒔
-- 🤝 𝑰 𝒔𝒉𝒊𝒑 𝒇𝒂𝒔𝒕𝒆𝒓 𝒘𝒊𝒕𝒉 𝒂 𝒕𝒆𝒂𝒎𝒎𝒂𝒕𝒆 — 𝒑𝒊𝒏𝒈 𝒎𝒆!
+- 🌱 Building with **React, JavaScript and Node.js**
+- 🧭 Turning vague requirements into shipped user flows
+- 🌍 Contributing to **Headlamp**, **Phoenix** and **eventyay**
+- 🛠️ Obsessed with DX: linting, tests, one-click deploys
+- 🧩 Practising DSA in **C++** in my [Leetcode](https://github.com/DashratRajpurohit/Leetcode) repo
+- 🤝 I ship faster with a teammate, so ping me!
 
-### 🔗 Let's Connect
-
-<p align="center">
-  <a href="https://dashrat.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/dashrat-rajpurohit/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://docs.google.com/document/d/1BLxpwyhQRmfOrfPq7UMc_XUtYadRSPRP/edit?usp=sharing&ouid=100913256563492753565&rtpof=true&sd=true" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-2563eb?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
-  </a>
-</p>
-
-   </td>
-    <td width="48%" align="center" valign="middle">
-      <img src="https://shorturl.at/odfzC" style="width:100%;max-width:380px;height:auto;" alt="About">
-      <br>
-      <img src="https://user-images.githubusercontent.com/74038190/212750455-0c4336d4-6473-4ce3-9d3a-5af8a4b7aa24.gif" style="width:100%;max-width:300px;" alt="neon grid" />
+</td>
+    <td width="44%" align="center" valign="middle">
+      <img src="assets/coding-room.gif" width="100%" alt="Pixel-art room with someone coding late at night (art by Kirokaze)" title="Art by Kirokaze" />
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider">
+| 🔭 Working on | ⚡ Exploring | 💬 Ask me about | ☕ Motto |
+| :-- | :-- | :-- | :-- |
+| Phoenix event display (HSF) and the AI pipeline for Samadhan Setu (SIH 2026) | Performance profiling on React + Node, and testing setups that actually get used | React, the MERN stack, and landing your first open-source PR | *Turning coffee into code, dreams into reality* |
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## 🌍 Open source
+
+Merged pull requests in some larger open-source projects:
+
+| Project | What I did | PRs |
+| :-- | :-- | :-- |
+| <img src="https://github.com/kubernetes-sigs.png?size=64" width="18" alt="" /> **[Headlamp](https://github.com/kubernetes-sigs/headlamp)**<br><sub>Kubernetes SIGs · Kubernetes web UI</sub><br><img src="https://img.shields.io/github/stars/kubernetes-sigs/headlamp?style=flat-square&labelColor=0d1117&color=2da44e" alt="stars" /> | Fixed owner-reference resolution (match on `apiVersion` + `kind`) so resources link to the right object, and swapped a linear scan for a `Map` in recent-cluster lookup | [#5641](https://github.com/kubernetes-sigs/headlamp/pull/5641)<br>[#5686](https://github.com/kubernetes-sigs/headlamp/pull/5686) |
+| <img src="https://github.com/HSF.png?size=64" width="18" alt="" /> **[Phoenix](https://github.com/HSF/phoenix)**<br><sub>HEP Software Foundation · event display for particle physics</sub><br><img src="https://img.shields.io/github/stars/HSF/phoenix?style=flat-square&labelColor=0d1117&color=2da44e" alt="stars" /> | Synced the Eta-Phi view with the 3D view's visibility and cuts, added generic loading of zipped event data, and documented the dataset browser and loaders | [#966](https://github.com/HSF/phoenix/pull/966)<br>[#967](https://github.com/HSF/phoenix/pull/967)<br>[#1040](https://github.com/HSF/phoenix/pull/1040) |
+| <img src="https://github.com/fossasia.png?size=64" width="18" alt="" /> **[eventyay](https://github.com/fossasia/eventyay)**<br><sub>FOSSASIA · event management and ticketing</sub><br><img src="https://img.shields.io/github/stars/fossasia/eventyay?style=flat-square&labelColor=0d1117&color=2da44e" alt="stars" /> | Added WCAG contrast validation for event design colours, fixed an LSP violation in the ticket-secret generator, and fixed wrong language flags in event settings | [#3853](https://github.com/fossasia/eventyay/pull/3853)<br>[#3877](https://github.com/fossasia/eventyay/pull/3877)<br>[#3991](https://github.com/fossasia/eventyay/pull/3991) |
+| <img src="https://github.com/shap.png?size=64" width="18" alt="" /> **[SHAP](https://github.com/shap/shap)**<br><sub>Explainable machine learning</sub><br><img src="https://img.shields.io/github/stars/shap/shap?style=flat-square&labelColor=0d1117&color=2da44e" alt="stars" /> | Clarified the `expected_value` formula in the TreeExplainer docs | [#4418](https://github.com/shap/shap/pull/4418) |
+
+<p align="right">
+  <a href="https://github.com/search?q=author%3ADashratRajpurohit+is%3Apr+-user%3ADashratRajpurohit&type=pullrequests"><b>All my pull requests →</b></a>
 </p>
 
-## <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/> Frontend & Web Dev <img height="40" alt="Anshuman Jadiya" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+<img src="assets/divider.svg" width="100%" alt="" />
 
-</div>
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+## 🚀 Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🏛️ Indian Law Penal Code Dashboard
+
+A full-stack MERN dashboard for searching, filtering and analysing Indian penal-code records, with JWT auth and token revocation, an admin suite, analytics endpoints and a neo-brutalist UI. My semester-2 project, with 70+ commits.
+
+<img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb" alt="React" />
+<img src="https://img.shields.io/badge/Express-20232a?style=flat-square&logo=express&logoColor=white" alt="Express" />
+<img src="https://img.shields.io/badge/MongoDB-20232a?style=flat-square&logo=mongodb&logoColor=47a248" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Tailwind-20232a?style=flat-square&logo=tailwindcss&logoColor=38bdf8" alt="Tailwind CSS" />
+
+[**Live demo ↗**](https://indian-law-penal.vercel.app/) · [Code](https://github.com/codinggita/indian_law_penal_code_dashrat_rajpurohit)
+
+</td>
+    <td width="50%" valign="top">
+
+### 🧠 Samadhan Setu (SIH 2026)
+
+A civic-issue platform for Jharkhand: citizens report problems, AI triages them, and universities propose fixes. I built the web frontend and the AI pipeline, including an NVIDIA NIM worker with a 35 RPM rate limiter.
+
+<img src="https://img.shields.io/badge/TypeScript-20232a?style=flat-square&logo=typescript&logoColor=3178c6" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Express-20232a?style=flat-square&logo=express&logoColor=white" alt="Express" />
+<img src="https://img.shields.io/badge/Redis-20232a?style=flat-square&logo=redis&logoColor=ff4438" alt="Redis" />
+<img src="https://img.shields.io/badge/NVIDIA%20NIM-20232a?style=flat-square&logo=nvidia&logoColor=76b900" alt="NVIDIA NIM" />
+
+[**Live demo ↗**](https://amrit-raj50.github.io/PS/) · [Code](https://github.com/himmatmundhe07/Samadhan_Setu)
+
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🐾 Rescue+
+
+An emergency animal-rescue and adoption platform that connects people with nearby rescue services. Team project; I made 45+ commits across the app.
+
+<img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb" alt="React" />
+<img src="https://img.shields.io/badge/Node.js-20232a?style=flat-square&logo=nodedotjs&logoColor=5fa04e" alt="Node.js" />
+<img src="https://img.shields.io/badge/MongoDB-20232a?style=flat-square&logo=mongodb&logoColor=47a248" alt="MongoDB" />
+
+[**Live demo ↗**](https://rescue-plus.vercel.app) · [Code](https://github.com/codinggita/ressuenet)
+
+</td>
+    <td width="50%" valign="top">
+
+### 🎙️ AI Browser Companion
+
+A 31-hour hackathon build with a team of four: a Chrome extension that reads, understands and talks about any webpage. I worked on the backend and the LLM integration.
+
+<img src="https://img.shields.io/badge/Chrome%20MV3-20232a?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome extension" />
+<img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb" alt="React" />
+<img src="https://img.shields.io/badge/Node.js-20232a?style=flat-square&logo=nodedotjs&logoColor=5fa04e" alt="Node.js" />
+
+[Code](https://github.com/codinggita/runtime_error)
+
+</td>
+  </tr>
+</table>
+
+<p align="center">
+  <sub><b>More:</b>
+  <a href="https://dashrat-108682-instamart-25sep.netlify.app">Instamart clone</a> ·
+  <a href="https://htm-css-projects.netlify.app/">HTML/CSS projects</a> ·
+  <a href="https://js-project-dashrat.netlify.app/">JavaScript projects</a> ·
+  <a href="https://github.com/DashratRajpurohit/MacOS-Portfolio">macOS-style portfolio</a> ·
+  <a href="https://github.com/DashratRajpurohit/FALLING-PICKEX">Falling Pickaxe (Python game)</a>
+  </sub>
+</p>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## 🧰 Tech stack
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tech-stack-dark.svg" />
+    <img src="assets/tech-stack-light.svg" width="100%" alt="Tech stack. Languages: C, C++, JavaScript, TypeScript, Python, HTML, CSS, Bash. Frontend: React, Angular, Vite, Tailwind, Redux, MUI, Three.js, Figma. Backend and data: Node.js, Express, Django, MongoDB, MySQL, Redis, Prisma, Postman. Tools and cloud: Git, GitHub, GitHub Actions, Kubernetes, VS Code, npm, pnpm, Vitest, Vercel, Netlify, Linux, Arch." />
+  </picture>
+</p>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## 📊 GitHub stats
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=DashratRajpurohit&show_icons=true&rank_icon=github&border_radius=10&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9&ring_color=3fb950&border_color=30363d" />
+    <img src="https://github-readme-stats.vercel.app/api?username=DashratRajpurohit&show_icons=true&rank_icon=github&border_radius=10&bg_color=ffffff&title_color=1a7f37&icon_color=1a7f37&text_color=1f2328&ring_color=1a7f37&border_color=d0d7de" height="180" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DashratRajpurohit&layout=compact&langs_count=8&border_radius=10&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&border_color=30363d" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DashratRajpurohit&layout=compact&langs_count=8&border_radius=10&bg_color=ffffff&title_color=1a7f37&text_color=1f2328&border_color=d0d7de" height="180" alt="Most used languages" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DashratRajpurohit&border_radius=10&background=0D1117&border=30363D&stroke=30363D&ring=3FB950&fire=3FB950&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=3FB950&sideLabels=8B949E&dates=8B949E" />
+    <img src="https://streak-stats.demolab.com?user=DashratRajpurohit&border_radius=10&background=FFFFFF&border=D0D7DE&stroke=D0D7DE&ring=1A7F37&fire=1A7F37&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=1A7F37&sideLabels=59636E&dates=59636E" alt="GitHub streak" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.vercel.app/?username=DashratRajpurohit&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
+    <img src="https://github-trophies.vercel.app/?username=DashratRajpurohit&theme=flat&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" width="100%" alt="GitHub trophies" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DashratRajpurohit/DashratRajpurohit/output/profile-3d-contrib/profile-night-green.svg" />
+    <img src="https://raw.githubusercontent.com/DashratRajpurohit/DashratRajpurohit/output/profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D contribution calendar" />
+  </picture>
+</p>
+
+<details>
+<summary><b>More stats</b></summary>
 <br>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DashratRajpurohit&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DashratRajpurohit&theme=github" width="100%" alt="Profile details" />
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DashratRajpurohit&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DashratRajpurohit&theme=github" width="49%" alt="Most commit language" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DashratRajpurohit&theme=github_dark&utcOffset=5.5" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DashratRajpurohit&theme=github&utcOffset=5.5" width="49%" alt="Productive time" />
+  </picture>
+</p>
+</details>
 
-🎓 A curious student & passionate **Vibe Coding enthusiast** who loves building creative apps. <br> 
-💡 I believe C++ is the perfect language for beginners, and I want to **share its beauty** with the world.  
-🚀 Currently exploring new ideas, contributing to open source, and building my **C++ Beauty Suite**. <br>
-❓ Exploring ideas, building systems, and improving problem-solving skills
-🧠 Currently working on strengthening core concepts and writing cleaner, scalable code
-
-
-<br><br>
-<div align=center>
-  <table align="center">
-  <thead align="center">
-    <tr>
-      <td><b>👀 Profile Views</b></td>
-      <td><b>👤 Followers</b></td>
-      <td><b>🌟 Stars</b></td>
-      <td><b>✅ Awesome</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        
-  ![Visitors](https://api.visitorbadge.io/api/visitors?path=DashratRajpurohit%2FDashratRajpurohit&label=Total%20Visitors&labelColor=%23000&countColor=%230A0209&style=flat-square)
-      </td>
-      <td>
-        <a href="https://github.com/DashratRajpurohit">
-          <img src="https://img.shields.io/github/followers/DashratRajpurohit?label=Followers&style=social" alt="GitHub Followers"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/DashratRajpurohit">
-          <img src="https://img.shields.io/github/stars/DashratRajpurohit?label=Stars&style=social" alt="GitHub Stars"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/DashratRajpurohit">
-          <img src="https://awesome.re/badge.svg" alt="Awesome"/>
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+### 🐍 Contribution snake
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DashratRajpurohit/DashratRajpurohit/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/DashratRajpurohit/DashratRajpurohit/output/github-contribution-grid-snake.svg" width="100%" alt="Snake eating my contribution graph" />
+  </picture>
 </p>
 
-## <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />Tech I Reach For</h3>
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/C-00599c?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599c?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-</p>
+<img src="assets/divider.svg" width="100%" alt="" />
 
-**Frontend**
-<p>
-  <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=000" />
-  <img src="https://img.shields.io/badge/Vite-936cff?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-764abc?style=for-the-badge&logo=redux&logoColor=white" />
-</p>
+## 🎯 Interactive corner
 
-**Backend & Data**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-f97316?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
+Everything here runs on GitHub Issues and Actions, so you can play, sign and ask without leaving GitHub.
 
-**Tools & Workflow**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/npm-cb3837?style=for-the-badge&logo=npm&logoColor=white" />
-</p>
+### 🎮 Play with me
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider">
-</p>
+Tic-tac-toe against my bot. Click an empty square, press **Create** on the issue that opens, and the bot plays back. The board below updates in about a minute. Everyone shares one board, so you're teaming up with every other visitor.
 
-
-## <img src="https://media.tenor.com/q4L3wKD-P7YAAAAj/hydra-we-bhack.gif" height="30" style="margin-right: 10px; vertical-align: middle;"/> My Tech Arsenal 
-
-<a href="https://github.com/DashratRajpurohit"> <div align=center>
-  
-  ![](https://github-trophies.vercel.app/?username=DashratRajpurohit&theme=discord&no-frame=true&no-bg=true&margin-w=4)
-  </div>
-</a><br>
-   
-   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DashratRajpurohit&show_icons=true&count_private=true&theme=radical&hide_border=true)<br>
-![](https://nirzak-streak-stats.vercel.app/?user=DashratRajpurohit&theme=radical&hide_border=false)<br>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DashratRajpurohit&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DashratRajpurohit&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DashratRajpurohit&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DashratRajpurohit&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DashratRajpurohit&theme=radical&utcOffset=5.3)
-<img src="https://github-contributor-stats.vercel.app/api?username=DashratRajpurohit&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo"><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DashratRajpurohit&layout=compact&theme=radical&hide_border=true&card_width=400" alt="Most Used Languages" />
-<br><br>
-
- ![My GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DashratRajpurohit&theme=dracula&custom_title=Dashrat%20Rajpurohit's%20Contribution%20Graph)  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)<br>
-<img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Jokes Card" align="right" width="300" height="180"/>
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-91%20hrs%206%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-86.07%20thousand%20lines%20of%20code-blue?style=flat)
-
-
-## Side quests & sparks
-- 🎯 Rebuilding a personal design system with tokens + semantic color ramps.
-- 🎹 Generating lo-fi code-session loops with JS audio APIs.
-- 🕹️ Tiny game prototypes to keep vanilla JS muscles fresh.
-- 🌍 Always open to collabs: drop an issue or a DM.
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-29612d07ba1f.gif" width="220" alt="radar scan" />
-</p>
-
-## Momentum board
-- 🚀 **Launch-ready:** Polishing a clean deploy script + PR previews.
-- 🎬 **In progress:** Motion experiments (staggered cards, magnetic buttons).
-- 🧭 **Up next:** API observability starter kit for side projects.
-- 🧊 **Cool-down:** Reading “Designing Data-Intensive Applications”.
-
-## Micro dashboards
-<p align="center">
-  <img src="https://progress-bar.dev/82/?title=frontend%20polish&width=180&color=0ea5e9" />
-  <img src="https://progress-bar.dev/71/?title=backend%20ops&width=180&color=22c55e" />
-  <img src="https://progress-bar.dev/64/?title=testing%20rig&width=180&color=f59e0b" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/215283981-13c3f2f7-75e8-4e7c-8f4b-bf9c0c8d9f9c.gif" width="320" alt="grid scan" />
-</p>
-
-## What I'm up to
-- 🧪 Building small projects to stress‑test ideas quickly.
-- ⚡ Practicing performance profiling on React + Node stacks.
-- 🧹 Keeping repos tidy with consistent formatting, linting, and tests.
-- 🌐 Looking to contribute to open-source tools that improve developer experience.
-
-## GitHub snapshot
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=DashratRajpurohit&show_icons=true&theme=transparent&title_color=0ea5e9&icon_color=0ea5e9&text_color=0f172a&border_color=e2e8f0" height="180" alt="stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DashratRajpurohit&layout=compact&theme=transparent&title_color=0ea5e9&text_color=0f172a&border_color=e2e8f0&langs_count=8" height="180" alt="top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DashratRajpurohit&theme=transparent&border=e2e8f0&fire=0ea5e9&ring=0ea5e9&currStreakLabel=0ea5e9" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DashratRajpurohit&bg_color=ffffff&color=0ea5e9&line=0ea5e9&point=0f172a&area=true&hide_border=true" alt="activity graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DashratRajpurohit&theme=transparent&row=1&column=7&no-frame=true&margin-w=10&margin-h=10&title_color=0ea5e9&icon_color=0ea5e9" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DashratRajpurohit&theme=transparent" alt="Profile Summary" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DashratRajpurohit&theme=transparent" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats-in-detail?username=DashratRajpurohit&theme=transparent" alt="Stats In Detail" />
-</p>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DashratRajpurohit/DashratRajpurohit/output/github-contribution-grid-snake.svg"/>
-</p>
-
-
-### Profile Views
+<!-- TICTACTOE:START -->
+<div align="center">
 <table>
-  <tr>
-    <td>
-<img src="https://count.getloli.com/@DashratRajpurohit?name=DashratRajpurohit&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=1" width="500">
-    </td>
-  </tr>
+<tr><td><a href="https://github.com/DashratRajpurohit/DashratRajpurohit/issues/new?template=tic-tac-toe.md&amp;title=ttt%7Cmove%7C1"><img src="assets/ttt/empty.svg" width="64" alt="Play square 1"></a></td><td><a href="https://github.com/DashratRajpurohit/DashratRajpurohit/issues/new?template=tic-tac-toe.md&amp;title=ttt%7Cmove%7C2"><img src="assets/ttt/empty.svg" width="64" alt="Play square 2"></a></td><td><a href="https://github.com/DashratRajpurohit/DashratRajpurohit/issues/new?template=tic-tac-toe.md&amp;title=ttt%7Cmove%7C3"><img src="assets/ttt/empty.svg" width="64" alt="Play square 3"></a></td></tr>
+<tr><td><a href="https://github.com/DashratRajpurohit/DashratRajpurohit/issues/new?template=tic-tac-toe.md&amp;title=ttt%7Cmove%7C4"><img src="assets/ttt/empty.svg" width="64" alt="Play square 4"></a></td><td><a href="https://github.com/DashratRajpurohit/DashratRajpurohit/issues/new?template=tic-tac-toe.md&amp;title=ttt%7Cmove%7C5"><img src="assets/ttt/empty.svg" width="64" alt="Play square 5"></a></td><td><a href="https://github.com/DashratRajpurohit/DashratRajpurohit/issues/new?template=tic-tac-toe.md&amp;title=ttt%7Cmove%7C6"><img src="assets/ttt/empty.svg" width="64" alt="Play square 6"></a></td></tr>
+<tr><td><a href="https://github.com/DashratRajpurohit/DashratRajpurohit/issues/new?template=tic-tac-toe.md&amp;title=ttt%7Cmove%7C7"><img src="assets/ttt/empty.svg" width="64" alt="Play square 7"></a></td><td><a href="https://github.com/DashratRajpurohit/DashratRajpurohit/issues/new?template=tic-tac-toe.md&amp;title=ttt%7Cmove%7C8"><img src="assets/ttt/empty.svg" width="64" alt="Play square 8"></a></td><td><a href="https://github.com/DashratRajpurohit/DashratRajpurohit/issues/new?template=tic-tac-toe.md&amp;title=ttt%7Cmove%7C9"><img src="assets/ttt/empty.svg" width="64" alt="Play square 9"></a></td></tr>
 </table>
+<p><b>Fresh board · make the first move!</b></p>
+<p><sub>👥 Visitors 0 · 🤖 Bot 0 · 🤝 Draws 0</sub></p>
 </div>
+<!-- TICTACTOE:END -->
+
+### 📝 Guestbook
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider">
+  <a href="https://github.com/DashratRajpurohit/DashratRajpurohit/issues/new?template=guestbook.yml"><img src="https://img.shields.io/badge/Guestbook-Sign%20it-2da44e?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Sign the guestbook" /></a>
+</p>
+
+<!-- GUESTBOOK:START -->
+<p align="center"><sub>No signatures yet. Be the first!</sub></p>
+<!-- GUESTBOOK:END -->
+
+### 💬 Ask me anything
+
+Curious about React, the MERN stack, open source or college life? Ask away and I'll answer in the issue.
+
+<p align="center">
+  <a href="https://github.com/DashratRajpurohit/DashratRajpurohit/issues/new?template=ama.yml"><img src="https://img.shields.io/badge/AMA-Ask%20a%20question-8250df?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Ask me anything" /></a>
+  <a href="https://github.com/DashratRajpurohit/DashratRajpurohit/issues?q=is%3Aissue+in%3Atitle+AMA"><img src="https://img.shields.io/badge/AMA-Read%20answers-8250df?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Read answered questions" /></a>
+</p>
+
+### 🐾 My GitAnimals
+
+My pets level up every time I commit.
+
+<p align="center">
+  <a href="https://www.gitanimals.org/"><img src="https://render.gitanimals.org/farms/DashratRajpurohit" width="600" alt="My GitAnimals farm" /></a>
+</p>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## 😄 Fun corner
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" width="49%" alt="Random dev quote" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api?bgColor=%230d1117&textColor=%23c9d1d9&qColor=%233fb950&aColor=%23c9d1d9&borderColor=%2330363d" />
+    <img src="https://readme-jokes.vercel.app/api?bgColor=%23ffffff&textColor=%231f2328&qColor=%231a7f37&aColor=%231f2328&borderColor=%23d0d7de" width="49%" alt="Random dev joke" />
+  </picture>
+</p>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+### 👀 Profile views
+
+<p align="center">
+  <img src="https://count.getloli.com/@DashratRajpurohit?name=DashratRajpurohit&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=1" alt="Profile views counter" />
 </p>
 
 <div align="center">
-  
-  ![mona-whisper](https://github.com/user-attachments/assets/79cb265a-94a9-4455-9ea8-56ea5fe249ed)<a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=40&pause=1000&color=F75C03&center=true&vCenter=true&width=700&height=60&lines=Don't+Forget+to+Follow!" alt="Follow DashratRajpurohit" /></a>
-</div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider">
-</p>
+<img src="https://github.com/user-attachments/assets/79cb265a-94a9-4455-9ea8-56ea5fe249ed" height="60" alt="" />
+<a href="https://github.com/DashratRajpurohit"><img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=40&pause=1000&color=2DA44E&center=true&vCenter=true&width=520&height=60&lines=Don't+forget+to+follow!" alt="Don't forget to follow!" /></a>
 
-<div align="center">
-  
-  ##### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> _Where creativity meets the beauty in code_ 
+<sub><i>Where creativity meets the beauty in code</i></sub>
 
 </div>
 
- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting%20My%20Profile!&fontSize=20&fontColor=fff&animation=twinkling"/>
-
-   ###### DashratRajpurohit__________________________________________________________________________________________________© 2025 Dashrat Rajpurohit – Crafted with ❤️
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e4429,50:1a7f37,100:2da44e&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&fontAlignY=72&animation=twinkling" width="100%" alt="Thanks for visiting!" />

@@ -1,0 +1,8 @@
+{
+  "board": ["", "", "", "", "", "", "", "", ""],
+  "players": [],
+  "stats": { "visitors": 0, "bot": 0, "draws": 0 },
+  "lastGame": null,
+  "recentMoves": [],
+  "topPlayers": {}
+}
